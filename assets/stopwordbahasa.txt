@@ -723,7 +723,6 @@ tetapi
 tiap
 tiba
 tiba-tiba
-tidak
 tidakkah
 tidaklah
 tiga
@@ -756,3 +755,4 @@ yaitu
 yakin
 yakni
 yang
+hahahaha
