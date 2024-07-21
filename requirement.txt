@@ -8,3 +8,4 @@ googletrans
 numpy
 svc
 wordcloud
+openpyxl
