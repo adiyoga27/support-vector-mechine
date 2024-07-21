@@ -9,3 +9,6 @@ numpy
 svc
 wordcloud
 openpyxl
+scikit-learn
+Sastrawi
+seaborn
