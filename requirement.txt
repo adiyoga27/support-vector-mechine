@@ -4,3 +4,7 @@ swifter
 nltk
 deep_translator
 bs4
+googletrans
+numpy
+svc
+wordcloud
